@@ -1,3 +1,4 @@
+//Program to implement a Class and method with parameters and return value
 public class practical2 {
     int sum = 0;
     public int sumFunction(int a, int b)
