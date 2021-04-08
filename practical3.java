@@ -1,5 +1,3 @@
-
-//Program to implement Stack in Java
 import java.util.*;
 
 class Stack {
