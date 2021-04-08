@@ -2,21 +2,21 @@ class p
 {
     void funccall()
     {
-        System.out.println("Call from a");
+        System.out.println("Call by a");
     }
 }
 class q extends p
 {
     void funccall()
     {
-        System.out.println("call from q");
+        System.out.println("Call by q");
     }
 }
 class r extends p
 {
     void funccall()
     {
-        System.out.println("call from r");
+        System.out.println("Call by r");
     }
 }
 public class methodoverriding
