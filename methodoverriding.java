@@ -2,7 +2,7 @@ class p
 {
     void funccall()
     {
-        System.out.println("Call by a");
+        System.out.println("Call by p");
     }
 }
 class q extends p
